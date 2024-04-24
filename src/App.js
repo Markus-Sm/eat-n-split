@@ -187,3 +187,4 @@ function FormSplitBill({ selectedFriend, onSplitBill }) {
 		</form>
 	)
 }
+/* hi */
